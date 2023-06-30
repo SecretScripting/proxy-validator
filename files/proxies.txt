@@ -1,0 +1,2 @@
+# Copy the proxies in here in the format below
+# Host:Port:Username:Password
